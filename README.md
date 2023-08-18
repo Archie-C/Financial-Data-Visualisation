@@ -1,2 +1,3 @@
 # Financial-Data-Visualisation
-Exploration into the best ways to visual different types of financial data
+This Repo marks the start of my exploration into quantitative finance by providing a number of notebooks displaying visualisations for different data types.
+
